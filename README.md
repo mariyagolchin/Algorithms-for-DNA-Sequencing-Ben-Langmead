@@ -1,6 +1,6 @@
 Algorithms for DNA Sequencing
 
-learning python for DNA Sequencing
+learning python for DNA Sequence matching
 
 https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 
