@@ -6,4 +6,4 @@ https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7Dz
 
 https://github.com/BenLangmead/comp-genomics-class
 
-![Algorithms for DNA Sequencing]((https://github.com/mariyagolchin/Algorithms-for-DNA-Sequencing-Ben-Langmead/blob/main/Algorithms-for-DNA-Sequencing%20_certificate.PNG))
+<img src="https://github.com/mariyagolchin/Algorithms-for-DNA-Sequencing-Ben-Langmead/blob/main/Algorithms-for-DNA-Sequencing%20_certificate.PNG" width="600" height="400" alt="UMAP Plot">
